@@ -3,18 +3,18 @@
 
 - 🌱 I’m currently learning **express.js, react.js, postgresql**
 
-- 👨‍💻 All of my projects are available at [belumada.com](belumada.com)
+<!-- - 👨‍💻 All of my projects are available at [belumada.com](belumada.com) -->
 
-- 📝 I regularly write articles on [iniblogsaya.com](iniblogsaya.com)
+<!-- - 📝 I regularly write articles on [iniblogsaya.com](iniblogsaya.com) -->
 
-- 📫 How to reach me **disini@gmail.com**
+- 📫 How to reach me **msyaifullahalarief@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedinsaya.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedinsaya.com" height="30" width="40" /></a>
-<a href="https://hashnode.com/hasnodesaya.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="hasnodesaya.com" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/youtubesaya.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtubesaya.com" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hackerranksaya.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerranksaya.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-syaifullah-al-arief/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<!-- <a href="https://hashnode.com/hasnodesaya.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="hasnodesaya.com" height="30" width="40" /></a> -->
+<!-- <a href="https://www.youtube.com/c/youtubesaya.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtubesaya.com" height="30" width="40" /></a> -->
+<!-- <a href="https://www.hackerrank.com/hackerranksaya.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerranksaya.com" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
