@@ -9,6 +9,8 @@ I am a fresh graduate of Jember State Polytechnic, Computer Engineering Study Pr
 - 🧠  I'm learning TypeScript
 - 🤝  I'm open to collaborating on Software Development
 
+![Profile Views](https://komarev.com/ghpvc/?username=arief2020&color=blue)
+
 ## Skills
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
