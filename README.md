@@ -3,6 +3,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arief2020&color=blue)
 
+![Today's Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=radical&hide_title=true&hide_border=true&count_private=true&include_all_commits=true&custom_title=Today's%20Stats)
+
 - 🌍  I'm based in Probolinggo, Indonesia
 - 🖥️  See my portfolio at [My Portfolio](https://msyaifullahalarief.vercel.app)
 - ✉️  You can contact me at [msyaifullahalarief@gmail.com](mailto:msyaifullahalarief@gmail.com)
