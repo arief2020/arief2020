@@ -1,8 +1,6 @@
 # Muhammad Syaifullah Al Arief
 **Web Developer | Software Engineer**
 
-![Profile Views](https://komarev.com/ghpvc/?username=arief2020&color=blue)
-
 - 🌍  I'm based in Probolinggo, Indonesia
 - 🖥️  See my portfolio at [My Portfolio](https://msyaifullahalarief.vercel.app)
 - ✉️  You can contact me at [msyaifullahalarief@gmail.com](mailto:msyaifullahalarief@gmail.com)
