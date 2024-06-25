@@ -106,8 +106,22 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.7%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-224-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 50.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 350 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 50 Public Repositories 
+ > 
+> 🔑 13 Private Repositories 
+ > 
 **I'm an Early 🐤** 
 
 ```text
@@ -132,14 +146,22 @@ Sunday                   404 commits         ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Asia/Jakarta
+
 💬 Programming Languages: 
 YAML                     22 mins             ██████████████████░░░░░░░   71.67 % 
 Markdown                 7 mins              ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
 Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 
+🔥 Editors: 
+VS Code                  31 mins             █████████████████████████   100.00 % 
+
 🐱‍💻 Projects: 
 waka-readme-stats        15 mins             █████████████░░░░░░░░░░░░   50.59 % 
 arief2020                15 mins             ████████████░░░░░░░░░░░░░   49.41 % 
+
+💻 Operating System: 
+Windows                  31 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -154,6 +176,10 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 24/06/2024 17:13:08 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/arief2020/arief2020/main/assets/bar_graph.png)
+
+
+ Last Updated on 25/06/2024 07:15:45 UTC
 <!--END_SECTION:waka-->
