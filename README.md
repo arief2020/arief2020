@@ -99,6 +99,7 @@
 <a href="http://www.github.com/arief2020">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=arief2020&stroke=ffffff&background=27272a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
 </a>
+
 <a href="https://github.com/arief2020" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arief2020&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
