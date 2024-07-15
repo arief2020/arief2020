@@ -106,8 +106,22 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.3%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%202%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-34-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 58.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 376 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 54 Public Repositories 
+ > 
+> 🔑 17 Private Repositories 
+ > 
 **I'm an Early 🐤** 
 
 ```text
@@ -132,6 +146,8 @@ Sunday                   410 commits         ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Asia/Jakarta
+
 💬 Programming Languages: 
 Kotlin                   4 hrs 11 mins       ████████████████████░░░░░   78.47 % 
 XML                      44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
@@ -139,12 +155,20 @@ Markdown                 16 mins             █░░░░░░░░░░�
 GitIgnore file           8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
+🔥 Editors: 
+IntelliJ IDEA            3 hrs 16 mins       ███████████████░░░░░░░░░░   61.49 % 
+Android Studio           1 hr 46 mins        ████████░░░░░░░░░░░░░░░░░   33.38 % 
+VS Code                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+
 🐱‍💻 Projects: 
 Kotlin Koans             2 hrs 22 mins       ███████████░░░░░░░░░░░░░░   44.62 % 
 My Application           1 hr 9 mins         █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
 Unknown Project          36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
 first_app_jetpack_compose26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
 test_kontln              22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+
+💻 Operating System: 
+Windows                  5 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -159,6 +183,10 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 15/07/2024 04:33:20 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/arief2020/arief2020/main/assets/bar_graph.png)
+
+
+ Last Updated on 15/07/2024 07:16:31 UTC
 <!--END_SECTION:waka-->
