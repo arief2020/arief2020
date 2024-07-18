@@ -7,6 +7,7 @@
 - 🧠  I'm learning TypeScript
 - 🤝  I'm open to collaborating on Software Development
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arief2020)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Skills
