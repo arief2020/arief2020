@@ -105,22 +105,8 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-84%20hrs%209%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.9%20million%20lines%20of%20code-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 68.3 kB Used in GitHub's Storage 
- > 
-> 🏆 412 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 57 Public Repositories 
- > 
-> 🔑 25 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -145,8 +131,6 @@ Sunday                   417 commits         ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Jakarta
-
 💬 Programming Languages: 
 TypeScript               13 hrs 57 mins      █████████████████████░░░░   82.49 % 
 JSON                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
@@ -154,17 +138,11 @@ Other                    46 mins             █░░░░░░░░░░�
 Markdown                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 JavaScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 
-🔥 Editors: 
-VS Code                  16 hrs 55 mins      █████████████████████████   100.00 % 
-
 🐱‍💻 Projects: 
 backend                  14 hrs 44 mins      ██████████████████████░░░   87.10 % 
 latihan deploy           1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
 sorting                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 task                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-
-💻 Operating System: 
-Windows                  16 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -179,10 +157,6 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/arief2020/arief2020/main/assets/bar_graph.png)
-
-
- Last Updated on 17/08/2024 07:15:16 UTC
+ Last Updated on 17/08/2024 18:21:24 UTC
 <!--END_SECTION:waka-->
