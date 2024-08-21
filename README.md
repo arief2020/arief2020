@@ -105,8 +105,22 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.9%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2030%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 68.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 412 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 57 Public Repositories 
+ > 
+> 🔑 25 Private Repositories 
+ > 
 **I'm an Early 🐤** 
 
 ```text
@@ -131,16 +145,23 @@ Sunday                   417 commits         ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Asia/Jakarta
+
 💬 Programming Languages: 
-TypeScript               14 hrs 30 mins      ████████████████████████░   94.49 % 
-JSON                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Other                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+TypeScript               12 hrs 36 mins      ████████████████████████░   94.11 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+
+🔥 Editors: 
+VS Code                  13 hrs 23 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend                  15 hrs 10 mins      █████████████████████████   98.87 % 
-sorting                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
+backend                  13 hrs 23 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  13 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -155,6 +176,10 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 20/08/2024 18:22:42 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/arief2020/arief2020/main/assets/bar_graph.png)
+
+
+ Last Updated on 21/08/2024 07:16:33 UTC
 <!--END_SECTION:waka-->
