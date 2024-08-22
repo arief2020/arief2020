@@ -105,8 +105,22 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.9%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2055%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 68.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 412 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 57 Public Repositories 
+ > 
+> 🔑 25 Private Repositories 
+ > 
 **I'm an Early 🐤** 
 
 ```text
@@ -131,15 +145,23 @@ Sunday                   417 commits         ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Asia/Jakarta
+
 💬 Programming Languages: 
-TypeScript               12 hrs 36 mins      ████████████████████████░   94.11 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-JavaScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+TypeScript               8 hrs 11 mins       ████████████████████████░   95.34 % 
+JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+
+🔥 Editors: 
+VS Code                  8 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend                  13 hrs 23 mins      █████████████████████████   100.00 % 
+backend                  8 hrs 35 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  8 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -154,6 +176,10 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 21/08/2024 18:22:37 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/arief2020/arief2020/main/assets/bar_graph.png)
+
+
+ Last Updated on 22/08/2024 07:17:48 UTC
 <!--END_SECTION:waka-->
