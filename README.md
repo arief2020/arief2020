@@ -105,8 +105,22 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.9%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-96%20hrs%205%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 68.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 397 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 58 Public Repositories 
+ > 
+> 🔑 26 Private Repositories 
+ > 
 **I'm an Early 🐤** 
 
 ```text
@@ -131,6 +145,8 @@ Sunday                   417 commits         ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Asia/Jakarta
+
 💬 Programming Languages: 
 TypeScript               3 hrs 22 mins       █████████████░░░░░░░░░░░░   53.91 % 
 Text                     1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
@@ -138,12 +154,18 @@ Markdown                 49 mins             ███░░░░░░░░�
 JSON                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
 Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 
+🔥 Editors: 
+VS Code                  6 hrs 15 mins       █████████████████████████   100.00 % 
+
 🐱‍💻 Projects: 
 nest-products            2 hrs 51 mins       ███████████░░░░░░░░░░░░░░   45.60 % 
 restful-api              1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
 day 1                    1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
 auth                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
 eda                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+
+💻 Operating System: 
+Windows                  6 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -158,6 +180,10 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 30/08/2024 18:23:39 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/arief2020/arief2020/main/assets/bar_graph.png)
+
+
+ Last Updated on 31/08/2024 07:15:50 UTC
 <!--END_SECTION:waka-->
