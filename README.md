@@ -105,22 +105,8 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2055%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.9%20million%20lines%20of%20code-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 68.5 kB Used in GitHub's Storage 
- > 
-> 🏆 399 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 60 Public Repositories 
- > 
-> 🔑 26 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -145,8 +131,6 @@ Sunday                   417 commits         ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Jakarta
-
 💬 Programming Languages: 
 PHP                      8 hrs 28 mins       ████████████████░░░░░░░░░   62.77 % 
 TypeScript               2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
@@ -154,18 +138,12 @@ JSON                     50 mins             ██░░░░░░░░░�
 Markdown                 49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
-🔥 Editors: 
-VS Code                  13 hrs 30 mins      █████████████████████████   100.00 % 
-
 🐱‍💻 Projects: 
 test-id-grow             8 hrs 51 mins       ████████████████░░░░░░░░░   65.56 % 
 nest-products            2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
 restful-api              1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
 auth                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 day 1                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-
-💻 Operating System: 
-Windows                  13 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -180,10 +158,6 @@ Kotlin                   8 repos             ███░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/arief2020/arief2020/main/assets/bar_graph.png)
-
-
- Last Updated on 03/09/2024 07:18:00 UTC
+ Last Updated on 03/09/2024 18:23:36 UTC
 <!--END_SECTION:waka-->
