@@ -105,22 +105,8 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%207%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.9%20million%20lines%20of%20code-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 71.5 kB Used in GitHub's Storage 
- > 
-> 🏆 417 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 64 Public Repositories 
- > 
-> 🔑 29 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -145,8 +131,6 @@ Sunday                   417 commits         ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Jakarta
-
 💬 Programming Languages: 
 PHP                      1 hr 50 mins        ███████░░░░░░░░░░░░░░░░░░   26.91 % 
 JavaScript               1 hr 27 mins        █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
@@ -154,18 +138,12 @@ Vue.js                   1 hr 19 mins        █████░░░░░░�
 TypeScript               1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
 JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 
-🔥 Editors: 
-VS Code                  6 hrs 52 mins       █████████████████████████   100.00 % 
-
 🐱‍💻 Projects: 
 test-id-grow             2 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   34.87 % 
 final_project            2 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   34.31 % 
 chat-app                 46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
 backend                  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
 frontend                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-
-💻 Operating System: 
-Windows                  6 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -180,10 +158,6 @@ Vue                      5 repos             █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/arief2020/arief2020/main/assets/bar_graph.png)
-
-
- Last Updated on 20/09/2024 07:19:19 UTC
+ Last Updated on 20/09/2024 18:24:27 UTC
 <!--END_SECTION:waka-->
