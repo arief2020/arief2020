@@ -105,22 +105,8 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.0%20million%20lines%20of%20code-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 72.9 kB Used in GitHub's Storage 
- > 
-> 🏆 444 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 69 Public Repositories 
- > 
-> 🔑 29 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -145,8 +131,6 @@ Sunday                   417 commits         ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Jakarta
-
 💬 Programming Languages: 
 Vue.js                   5 hrs 30 mins       █████████████░░░░░░░░░░░░   52.23 % 
 JavaScript               3 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   30.14 % 
@@ -154,17 +138,11 @@ Text                     36 mins             █░░░░░░░░░░�
 YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
 JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 
-🔥 Editors: 
-VS Code                  10 hrs 33 mins      █████████████████████████   100.00 % 
-
 🐱‍💻 Projects: 
 final_project            8 hrs 26 mins       ████████████████████░░░░░   79.98 % 
 backend                  2 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
 frontend                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 coba coba                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-
-💻 Operating System: 
-Windows                  10 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -179,10 +157,6 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/arief2020/arief2020/main/assets/bar_graph.png)
-
-
- Last Updated on 02/10/2024 07:18:16 UTC
+ Last Updated on 02/10/2024 18:25:24 UTC
 <!--END_SECTION:waka-->
