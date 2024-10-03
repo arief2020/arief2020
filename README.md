@@ -105,22 +105,8 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-137%20hrs%2048%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.0%20million%20lines%20of%20code-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 72.9 kB Used in GitHub's Storage 
- > 
-> 🏆 444 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 69 Public Repositories 
- > 
-> 🔑 29 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -145,8 +131,6 @@ Sunday                   417 commits         ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Jakarta
-
 💬 Programming Languages: 
 Vue.js                   7 hrs 50 mins       ███████████████░░░░░░░░░░   61.26 % 
 JavaScript               3 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   27.07 % 
@@ -154,17 +138,11 @@ YAML                     38 mins             █░░░░░░░░░░�
 Image (svg)              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 Text                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
 
-🔥 Editors: 
-VS Code                  12 hrs 47 mins      █████████████████████████   100.00 % 
-
 🐱‍💻 Projects: 
 final_project            11 hrs 10 mins      ██████████████████████░░░   87.35 % 
 backend                  1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
 frontend                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 coba coba                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-💻 Operating System: 
-Windows                  12 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -179,10 +157,6 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/arief2020/arief2020/main/assets/bar_graph.png)
-
-
- Last Updated on 03/10/2024 07:20:04 UTC
+ Last Updated on 03/10/2024 18:25:21 UTC
 <!--END_SECTION:waka-->
