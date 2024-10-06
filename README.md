@@ -105,22 +105,8 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%2045%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.0%20million%20lines%20of%20code-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-20-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 73.1 kB Used in GitHub's Storage 
- > 
-> 🏆 449 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 71 Public Repositories 
- > 
-> 🔑 29 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -145,8 +131,6 @@ Sunday                   417 commits         ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Jakarta
-
 💬 Programming Languages: 
 Vue.js                   7 hrs 53 mins       ████████████████░░░░░░░░░   65.09 % 
 JavaScript               2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
@@ -154,16 +138,10 @@ YAML                     38 mins             █░░░░░░░░░░�
 Image (svg)              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 
-🔥 Editors: 
-VS Code                  12 hrs 7 mins       █████████████████████████   100.00 % 
-
 🐱‍💻 Projects: 
 final_project            11 hrs 14 mins      ███████████████████████░░   92.61 % 
 backend                  53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
 coba coba                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-💻 Operating System: 
-Windows                  12 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -178,10 +156,6 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/arief2020/arief2020/main/assets/bar_graph.png)
-
-
- Last Updated on 06/10/2024 07:18:10 UTC
+ Last Updated on 06/10/2024 18:22:37 UTC
 <!--END_SECTION:waka-->
