@@ -105,8 +105,22 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.0%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-139%20hrs%2010%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 73.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 449 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 71 Public Repositories 
+ > 
+> 🔑 29 Private Repositories 
+ > 
 **I'm an Early 🐤** 
 
 ```text
@@ -131,16 +145,24 @@ Sunday                   417 commits         ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Asia/Jakarta
+
 💬 Programming Languages: 
-Vue.js                   7 hrs 11 mins       ████████████████░░░░░░░░░   63.24 % 
-JavaScript               2 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
-YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
-Image (svg)              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
-JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Vue.js                   4 hrs 18 mins       ███████████████░░░░░░░░░░   59.72 % 
+JavaScript               2 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   32.18 % 
+YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+
+🔥 Editors: 
+VS Code                  7 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-final_project            10 hrs 28 mins      ███████████████████████░░   92.12 % 
-backend                  53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+final_project            6 hrs 19 mins       ██████████████████████░░░   87.59 % 
+backend                  53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+
+💻 Operating System: 
+Windows                  7 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -155,6 +177,10 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 07/10/2024 18:24:56 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/arief2020/arief2020/main/assets/bar_graph.png)
+
+
+ Last Updated on 08/10/2024 07:20:19 UTC
 <!--END_SECTION:waka-->
