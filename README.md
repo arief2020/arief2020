@@ -105,22 +105,8 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-145%20hrs%201%20min-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.0%20million%20lines%20of%20code-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 73.1 kB Used in GitHub's Storage 
- > 
-> 🏆 449 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 71 Public Repositories 
- > 
-> 🔑 30 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -145,8 +131,6 @@ Sunday                   417 commits         ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Jakarta
-
 💬 Programming Languages: 
 TypeScript               2 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   41.26 % 
 JavaScript               1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
@@ -154,19 +138,12 @@ PHP                      50 mins             ████░░░░░░░�
 JSON                     23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
 Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
 
-🔥 Editors: 
-VS Code                  4 hrs 57 mins       █████████████████████████   100.00 % 
-
 🐱‍💻 Projects: 
 frontend                 2 hrs 12 mins       ███████████░░░░░░░░░░░░░░   44.45 % 
 project-vilt             1 hr                █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
 express-redis            45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
 project-laravel-sanbercod43 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
 backend                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-
-💻 Operating System: 
-Linux                    2 hrs 29 mins       █████████████░░░░░░░░░░░░   50.30 % 
-Windows                  2 hrs 27 mins       ████████████░░░░░░░░░░░░░   49.70 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -181,10 +158,6 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/arief2020/arief2020/main/assets/bar_graph.png)
-
-
- Last Updated on 15/10/2024 07:20:15 UTC
+ Last Updated on 15/10/2024 18:25:53 UTC
 <!--END_SECTION:waka-->
