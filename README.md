@@ -105,22 +105,8 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2013%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.0%20million%20lines%20of%20code-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 73.1 kB Used in GitHub's Storage 
- > 
-> 🏆 447 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 70 Public Repositories 
- > 
-> 🔑 31 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -145,8 +131,6 @@ Sunday                   417 commits         ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Jakarta
-
 💬 Programming Languages: 
 Vue.js                   3 hrs 6 mins        ███████████░░░░░░░░░░░░░░   42.38 % 
 PHP                      3 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   41.88 % 
@@ -154,15 +138,9 @@ JavaScript               29 mins             ██░░░░░░░░░�
 Markdown                 15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
 Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
-🔥 Editors: 
-VS Code                  7 hrs 19 mins       █████████████████████████   100.00 % 
-
 🐱‍💻 Projects: 
 project-vilt             6 hrs 35 mins       ███████████████████████░░   90.10 % 
 project-laravel-sanbercod43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
-
-💻 Operating System: 
-Linux                    7 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -177,10 +155,6 @@ Dockerfile               1 repo              ░░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/arief2020/arief2020/main/assets/bar_graph.png)
-
-
- Last Updated on 19/10/2024 07:19:02 UTC
+ Last Updated on 19/10/2024 18:23:17 UTC
 <!--END_SECTION:waka-->
