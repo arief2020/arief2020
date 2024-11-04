@@ -105,22 +105,8 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%2035%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.0%20million%20lines%20of%20code-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 73.3 kB Used in GitHub's Storage 
- > 
-> 🏆 447 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 70 Public Repositories 
- > 
-> 🔑 37 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -145,8 +131,6 @@ Sunday                   422 commits         ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Jakarta
-
 💬 Programming Languages: 
 Go                       2 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   38.59 % 
 PHP                      1 hr 32 mins        ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
@@ -154,18 +138,12 @@ Vue.js                   1 hr 25 mins        █████░░░░░░�
 Bash                     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
 Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
-🔥 Editors: 
-VS Code                  6 hrs 32 mins       █████████████████████████   100.00 % 
-
 🐱‍💻 Projects: 
 laravel-vilt             3 hrs 5 mins        ████████████░░░░░░░░░░░░░   47.36 % 
 go fiber                 1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   29.66 % 
 go oauth                 1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
 flow learnig             13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 frontend oauth           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-
-💻 Operating System: 
-Windows                  6 hrs 32 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -180,10 +158,6 @@ Go                       6 repos             ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/arief2020/arief2020/main/assets/bar_graph.png)
-
-
- Last Updated on 04/11/2024 07:19:52 UTC
+ Last Updated on 04/11/2024 18:25:24 UTC
 <!--END_SECTION:waka-->
