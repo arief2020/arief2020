@@ -105,22 +105,8 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-180%20hrs%203%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.0%20million%20lines%20of%20code-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 73.4 kB Used in GitHub's Storage 
- > 
-> 🏆 447 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 70 Public Repositories 
- > 
-> 🔑 37 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -145,8 +131,6 @@ Sunday                   422 commits         ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Jakarta
-
 💬 Programming Languages: 
 TypeScript               8 hrs 24 mins       ████████████████████░░░░░   81.55 % 
 Vue.js                   1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
@@ -154,16 +138,10 @@ PHP                      28 mins             █░░░░░░░░░░�
 JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
-🔥 Editors: 
-VS Code                  10 hrs 18 mins      █████████████████████████   100.00 % 
-
 🐱‍💻 Projects: 
 backend                  8 hrs 35 mins       █████████████████████░░░░   83.45 % 
 laravel-vilt             1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
 flow learnig             5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-
-💻 Operating System: 
-Windows                  10 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -178,10 +156,6 @@ Go                       6 repos             ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/arief2020/arief2020/main/assets/bar_graph.png)
-
-
- Last Updated on 16/11/2024 07:18:11 UTC
+ Last Updated on 16/11/2024 18:23:51 UTC
 <!--END_SECTION:waka-->
