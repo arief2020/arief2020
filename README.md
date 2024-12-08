@@ -105,8 +105,22 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.0%20million%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2041%20mins-blue)
 
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 74.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 468 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 73 Public Repositories 
+ > 
+> 🔑 36 Private Repositories 
+ > 
 **I'm an Early 🐤** 
 
 ```text
@@ -131,15 +145,23 @@ Sunday                   422 commits         ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
+🕑︎ Time Zone: Asia/Jakarta
+
 💬 Programming Languages: 
-Go                       25 hrs 14 mins      ████████████████████████░   97.75 % 
-Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Git Config               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Go                       21 hrs 14 mins      ████████████████████████░   97.43 % 
+Bash                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Git Config               7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+
+🔥 Editors: 
+VS Code                  21 hrs 47 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-go-example-cruid         25 hrs 49 mins      █████████████████████████   100.00 % 
+go-example-cruid         21 hrs 47 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  21 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -154,6 +176,10 @@ Vue                      7 repos             ██░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 07/12/2024 18:25:24 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/arief2020/arief2020/main/assets/bar_graph.png)
+
+
+ Last Updated on 08/12/2024 07:19:34 UTC
 <!--END_SECTION:waka-->
