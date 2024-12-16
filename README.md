@@ -105,22 +105,8 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%2051%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.0%20million%20lines%20of%20code-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 74.5 kB Used in GitHub's Storage 
- > 
-> 🏆 503 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 73 Public Repositories 
- > 
-> 🔑 37 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -145,8 +131,6 @@ Sunday                   435 commits         ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Jakarta
-
 💬 Programming Languages: 
 Go                       14 hrs 53 mins      █████████████████████░░░░   85.48 % 
 Markdown                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
@@ -154,17 +138,11 @@ JSON                     17 mins             ░░░░░░░░░░░�
 Makefile                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
 Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
-🔥 Editors: 
-VS Code                  17 hrs 25 mins      █████████████████████████   100.00 % 
-
 🐱‍💻 Projects: 
 go-example-cruid         15 hrs 13 mins      ██████████████████████░░░   87.34 % 
 backend                  1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
 go-integration-test      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
 frontend                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
-
-💻 Operating System: 
-Windows                  17 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -179,10 +157,6 @@ Vue                      7 repos             ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/arief2020/arief2020/main/assets/bar_graph.png)
-
-
- Last Updated on 16/12/2024 07:22:12 UTC
+ Last Updated on 16/12/2024 18:28:21 UTC
 <!--END_SECTION:waka-->
