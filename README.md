@@ -105,22 +105,8 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2050%20mins-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.0%20million%20lines%20of%20code-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 74.6 kB Used in GitHub's Storage 
- > 
-> 🏆 512 Contributions in the Year 2024
- > 
-> 💼 Opted to Hire
- > 
-> 📜 73 Public Repositories 
- > 
-> 🔑 39 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -145,8 +131,6 @@ Sunday                   435 commits         ███░░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Jakarta
-
 💬 Programming Languages: 
 Go                       7 hrs 48 mins       ███████████████░░░░░░░░░░   61.87 % 
 JavaScript               2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
@@ -154,19 +138,12 @@ Markdown                 1 hr 29 mins        ███░░░░░░░░�
 JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 Other                    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
-🔥 Editors: 
-VS Code                  12 hrs 37 mins      █████████████████████████   100.00 % 
-
 🐱‍💻 Projects: 
 go-example-cruid         7 hrs 21 mins       ███████████████░░░░░░░░░░   58.27 % 
 backend                  4 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   32.88 % 
 go-integration-test      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 go-redis                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 frontend                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-
-💻 Operating System: 
-Windows                  12 hrs 24 mins      █████████████████████████   98.36 % 
-Linux                    12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -181,10 +158,6 @@ Vue                      7 repos             ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/arief2020/arief2020/main/assets/bar_graph.png)
-
-
- Last Updated on 19/12/2024 07:20:44 UTC
+ Last Updated on 19/12/2024 18:26:17 UTC
 <!--END_SECTION:waka-->
