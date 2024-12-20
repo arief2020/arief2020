@@ -57,6 +57,13 @@
     </a>
 </p>
 
+## Technology that i know
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,docker,css,js,express,firebase,go,laravel,linux,mongodb,mysql,nextjs,nginx,nodejs,npm,postgres,postman,prisma,tailwind,ts,ubuntu,vercel,vscode,vue,windows,yarn" />
+  </a>
+</p>
+
 ## Socials
 <p align="left">
     <a href="https://discord.com/users/hanifez" target="_blank" rel="noreferrer">
