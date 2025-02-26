@@ -4,7 +4,7 @@
 - 🌍  I'm based in Probolinggo, Indonesia
 - 🖥️  See my portfolio at [My Portfolio](https://msyaifullahalarief.vercel.app)
 - ✉️  You can contact me at [msyaifullahalarief@gmail.com](mailto:msyaifullahalarief@gmail.com)
-- 🧠  Now, I'm focus in TypeScript and PHP
+- 🧠  Currently sharpening my skills in TypeScript and PHP
 - 🤝  I'm open to collaborating on Software Development
 
 ## Technology that i know
