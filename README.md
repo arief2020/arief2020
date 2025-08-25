@@ -89,10 +89,11 @@ Sunday                   575 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 0 secs              ████████████████████████░   95.29 % 
+JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+fulllstack-job-app       0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,5 +109,5 @@ Go                       10 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2025 18:28:28 UTC
+ Last Updated on 25/08/2025 18:32:34 UTC
 <!--END_SECTION:waka-->
