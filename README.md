@@ -89,10 +89,11 @@ Sunday                   575 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Lua                      12 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+setting obs              10 mins             █████████████████████░░░░   84.68 % 
+Unknown Project          1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -108,5 +109,5 @@ Go                       10 repos            ██░░░░░░░░░�
 
 
 
- Last Updated on 07/09/2025 18:25:44 UTC
+ Last Updated on 08/09/2025 18:31:31 UTC
 <!--END_SECTION:waka-->
