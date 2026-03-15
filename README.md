@@ -62,7 +62,7 @@
 </a>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.9%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.86%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -89,11 +89,10 @@ Sunday                   575 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Git Config               0 secs              ██████████████████████░░░   88.64 % 
-Markdown                 0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-extensionvscode1         0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -109,5 +108,5 @@ Java                     3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/12/2025 18:32:13 UTC
+ Last Updated on 15/03/2026 11:45:43 UTC
 <!--END_SECTION:waka-->
